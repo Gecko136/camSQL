@@ -1,0 +1,4 @@
+camlSQL provides an object model for the sql92 grammar
+
+camSQL is part of the cameleon project. It provides an object model for the sql92 grammar. Eventually you should find an mono class for each aspect of the grammar that you can use to build an abstract syntax tree for a representation of an sql.
+
